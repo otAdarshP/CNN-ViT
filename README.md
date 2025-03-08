@@ -1,0 +1,1 @@
+This is part of a Research project which me and my friend conducted, comparing the performance of CNNs and Vision Transformers in Computer Vision operations, such as - detection of defect in the Manufacturing industry.
